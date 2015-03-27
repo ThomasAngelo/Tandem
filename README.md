@@ -1,2 +1,0 @@
-# Tandem
-Tandem project repository

@@ -1,7 +1,7 @@
 {
   "name": "Tandem",
   "version": "1.0.0",
-  "description": "Tandem project",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,13 +10,13 @@
     "type": "git",
     "url": "https://github.com/ThomasAngelo/Tandem.git"
   },
-  "keywords": [
-    "Tandem"
-  ],
-  "author": "Thomas Angelo",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ThomasAngelo/Tandem/issues"
   },
-  "homepage": "https://github.com/ThomasAngelo/Tandem"
+  "homepage": "https://github.com/ThomasAngelo/Tandem",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  }
 }
