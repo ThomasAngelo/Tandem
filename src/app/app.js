@@ -12,6 +12,9 @@ TandemApp.config(function($routeProvider)
 		{
 			templateUrl: 'app/pages/home.html',
 			controller: 'homeController'
+		})
+		.otherwise({
+			redirectTo: '/login'
 		});
 });
 
