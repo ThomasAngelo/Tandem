@@ -1,0 +1,94 @@
+body {
+    background-color: #0e4959;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.topnav {
+	background-color: #de7e00;
+}
+
+.topnav-title {
+	font-size: 20px;
+	color: #ffffff;
+}
+
+.white {
+	background-color: #edf0f5;
+}
+
+.top-buffer {
+	margin-top: 20px;
+}
+
+.bottom-buffer {
+	margin-top: 5px;
+}
+
+/* login-specific page styles */
+.login-header-message {
+	font-size: 25px;
+}
+
+.login-div {
+	width: 65%;
+	min-width: 350px;
+	max-width: 550px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.login-textbox {
+	width: 300px;
+	font-size: 27px;
+}
+
+.tandem-button {
+	border: none;
+	background-color: #de7e00;
+	color: #ffffff;
+	text-decoration: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 120px;
+}
+
+.login-button {
+	border: none;
+	background-color: #de7e00;
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 30px;
+	width: 65%;
+	min-width: 350px;
+	max-width: 550px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+/* end login */
+
+/* event-specific page styles */
+
+.event-grid {
+	font-size: 20px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.event-item {
+	border-top-style: solid;
+	border-width: 1px;
+	border-color: #de7e00;
+	font-size: 27px;
+}
+
+/* end event */
